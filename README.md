@@ -1,4 +1,4 @@
-# Create the README.md file with repo documentation
+ # Create the README.md file with repo documentation
 echo "# Darkweb & OSINT Rapid Triage Utility
 
 Lightweight Python utility designed for threat intelligence desks to ingest unstructured darkweb chatter/forum dumps, strip noise, extract high-signal IOCs (IPs, cryptographic hashes, actor handles), and generate standardized Markdown incident briefs instantly.
